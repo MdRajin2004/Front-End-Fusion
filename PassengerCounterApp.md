@@ -48,7 +48,3 @@ Mohammed Rajin
 ## Video by freeCodeCamp 
 
 - https://youtu.be/jS4aFq5-91M?si=9Kmw49VyWzJeCBaM
-
-- Future plans for the project (e.g., additional features, enhancements)
-
-**Remember to commit and push the README file to your GitHub repository to make it visible to others.**
