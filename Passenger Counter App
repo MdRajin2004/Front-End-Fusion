@@ -1,27 +1,54 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Count Passenger</title>
-    <link rel="stylesheet" href="style.css">
-</head>
+# Passenger Counter App
 
-<body>
-    <h1>People entered:</h1>
-    <h2 id="count-el">0</h2>
-    <button id="increment-btn" onclick="increment()">INCREMENT</button>
-    <h1>People left:</h1>
-    <h2 id="count-dec">0</h2>
-    <button id="decrement-btn" onclick="decrement()">DECREMENT</button>
+## Overview
 
-    <h1>Total People Inside:</h1>
-    <h2 id="total">0</h2>
-    <button id="update-btn" onclick="update()">UPDATE</button>
+This web application provides a simple interface to keep track of passengers entering and exiting a location, such as a bus, train, or building. It's built using HTML, CSS, and JavaScript, and was developed with the help of freeCodeCamp's resources.
 
-    <button id="save-btn" onclick="save()">SAVE</button>
-   <p id="save-el">Previous entries: </p>
-    <script src="index.js"></script>
-</body>
-</html>
+## Features
+
+- **Clear visual display of passenger count**
+- **Buttons to increment and decrement the count**
+- **Save button to save and clear the count**
+- **Responsive design for optimal viewing on different devices**
+
+## Technologies
+
+- HTML5
+- CSS3
+- JavaScript (vanilla JavaScript, no external libraries)
+
+## Getting Started
+
+1. Clone or download this repository to your local machine.
+2. Open the `index.html` file in your web browser.
+
+## Usage
+
+1. Click the "INCREMENT" button to increment the passenger count.
+2. Click the "DECREMENT" button to decrement the count.
+3. Click the "SAVE" button to save and clear the count.
+4. Click the "UPDATE" button to reset tota people after saving.
+
+## Contributing
+
+Feel free to contribute to this project by submitting pull requests or opening issues for any improvements or suggestions.
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+## Acknowledgements
+
+- Developed with the guidance of freeCodeCamp's resources.
+
+## Created by
+
+Mohammed Rajin
+
+## Video by freeCodeCamp 
+
+- https://youtu.be/jS4aFq5-91M?si=9Kmw49VyWzJeCBaM
+
+- Future plans for the project (e.g., additional features, enhancements)
+
+**Remember to commit and push the README file to your GitHub repository to make it visible to others.**
