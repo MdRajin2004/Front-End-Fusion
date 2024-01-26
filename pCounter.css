@@ -1,0 +1,67 @@
+body {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #222;
+}
+
+h1 {
+    color: #FFFFFF;
+    font-family: Georgia;
+}
+
+h2 {
+    color: #00FF05;
+}
+
+button{
+    color: #FFFFFF;
+    font-weight: bold;
+    padding: 10px;
+    margin: 5px;
+    width: 200px;
+    border: none;
+    border-radius: 10px;
+}
+
+#count-dec{
+    color : #FF0000;
+}
+
+#total{
+    color: #00FFFF;
+}
+#update-btn{
+    background-color: #D8D800;
+    color: #000;
+}
+#increment-btn{
+    background-color: #07BE13;
+}
+
+#decrement-btn{
+    background-color:#C40000;
+}
+
+#save-btn{
+    color: cyan;
+    background-color: #0605C1;
+}
+
+#increment-btn:hover {
+    background-color: #00F910;
+}
+
+#decrement-btn:hover{
+    background-color: #FF0A0A;
+}
+#update-btn:hover {
+   background-color:#FFFF00;
+}
+#save-btn:hover{
+    background-color: #0050FF;
+}
+
+#save-el{
+    color: #FFC2F8;
+}
+
