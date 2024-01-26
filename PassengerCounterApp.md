@@ -20,7 +20,7 @@ This web application provides a simple interface to keep track of passengers ent
 ## Getting Started
 
 1. Clone or download this repository to your local machine.
-2. Open the `https://github.com/MdRajin2004/Front-End-Fusion.git/pCounter.html` file in your web browser.
+2. Open the `https://mdrajin2004.github.io/Front-End-Fusion/pCounter.html` link in your web browser.
 
 ## Usage
 
